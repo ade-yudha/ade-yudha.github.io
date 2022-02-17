@@ -256,4 +256,18 @@ $(document).ready(function() {
         $('.owl-item').not('.cloned').eq(item).find('.butn').addClass('animated zoomIn');
     });
 
+    // Slider owlCarousel with arrow
+    $('.carousel-main').owlCarousel({
+        items: 1,
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 4000,
+        margin: 10,
+        nav: true,
+        dots: true,
+        animateOut: 'fadeOut',
+        navText: ['<span class="fas fa-chevron-left fa-2x"></span>','<span class="fas fa-chevron-right fa-2x"></span>'],
+    })
+
+
 });
