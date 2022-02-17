@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="152px" viewBox="0 0 200 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 54</title>
+    <defs>
+        <linearGradient x1="28.6380576%" y1="47.4173554%" x2="69.1424614%" y2="58.1269395%" id="linearGradient-1">
+            <stop stop-color="#2995B4" offset="0%"></stop>
+            <stop stop-color="#003E56" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.9216298%" y1="70.1366467%" x2="69.8658455%" y2="76.7642989%" id="linearGradient-2">
+            <stop stop-color="#90E7C2" offset="0%"></stop>
+            <stop stop-color="#408869" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="53.3353145%" y1="74.1567689%" x2="39.2741187%" y2="29.7610125%" id="linearGradient-3">
+            <stop stop-color="#83DDE0" offset="0%"></stop>
+            <stop stop-color="#309FA5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="one-pager-desktop-Design" transform="translate(-1121.000000, -8846.000000)">
+            <g id="Group-54" transform="translate(1121.000000, 8846.000000)">
+                <text id="A-gaming-platform-un" font-family="Staatliches-Regular, Staatliches" font-size="26" font-weight="normal" line-spacing="30" fill="#2995B4">
+                    <tspan x="5.919" y="119.844086">A gaming platform </tspan>
+                    <tspan x="11.145" y="149.844086">unlike any other.</tspan>
+                </text>
+                <g id="Group-9">
+                    <g id="Group-10-Copy" transform="translate(78.000000, 0.000000)">
+                        <polygon id="Path-5-Copy" fill="url(#linearGradient-1)" points="44 40 0 40 12.3603038 30"></polygon>
+                        <polygon id="Path-6-Copy" fill="url(#linearGradient-2)" points="44 40 20.1201088 0 12 29.6984548"></polygon>
+                        <polygon id="Path-7-Copy" fill="url(#linearGradient-3)" points="0 40 12.124492 29.6984548 20 -4.4408921e-15"></polygon>
+                    </g>
+                    <text id="quiztoken" font-family="Staatliches-Regular, Staatliches" font-size="50" font-weight="normal" line-spacing="50" letter-spacing="0.833333333" fill="#012B3D">
+                        <tspan x="0" y="92">quiztoken</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="258px" height="258px" viewBox="0 0 258 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 39</title>
+    <defs>
+        <linearGradient x1="50%" y1="36.6050092%" x2="50%" y2="145.150376%" id="linearGradient-1">
+            <stop stop-color="#90E7C2" offset="0%"></stop>
+            <stop stop-color="#408869" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="one-pager-desktop-Design" transform="translate(-720.000000, -1497.000000)">
+            <g id="Group-39" transform="translate(720.000000, 1497.000000)">
+                <polygon id="Triangle-Copy-5" fill="url(#linearGradient-1)" opacity="0.9" style="mix-blend-mode: multiply;" points="128.909953 -5.68434189e-14 257.819905 257.819905 6.25277607e-13 257.819905"></polygon>
+                <g id="Group-43-Copy" transform="translate(100.000000, 146.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" x="0" y="0" width="19" height="19"></rect>
+                    <rect id="Rectangle-Copy-2" x="21" y="0" width="19" height="19"></rect>
+                    <rect id="Rectangle-Copy-4" x="21" y="21" width="19" height="19"></rect>
+                    <rect id="Rectangle-Copy-3" x="42" y="0" width="19" height="19"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

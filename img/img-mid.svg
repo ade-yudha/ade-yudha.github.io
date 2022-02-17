@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="258px" height="258px" viewBox="0 0 258 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 12</title>
+    <defs>
+        <linearGradient x1="50%" y1="37.6140711%" x2="50%" y2="106.327249%" id="linearGradient-1">
+            <stop stop-color="#83DDE0" offset="0%"></stop>
+            <stop stop-color="#309FA5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="one-pager-desktop-Design" transform="translate(-593.000000, -970.000000)">
+            <g id="Group-12" transform="translate(593.000000, 970.000000)">
+                <polygon id="Triangle-Copy-8" fill="url(#linearGradient-1)" points="128.909953 1.70530257e-13 257.819905 257.819905 -2.84217094e-13 257.819905"></polygon>
+                <text id="Blockchain-&amp;-cryptoc" font-family="Staatliches-Regular, Staatliches" font-size="20" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                    <tspan x="74.9078673" y="203.941677">Blockchain &amp; </tspan>
+                    <tspan x="61.3178673" y="225.941677">cryptocurrency</tspan>
+                </text>
+                <g id="Group-40" transform="translate(89.000000, 124.000000)" fill="#FFFFFF">
+                    <polygon id="Fill-1" points="57.8251483 -4.26325641e-14 47.5337289 5.94184557 47.5337289 17.8251915 57.8251483 23.7668644 68.1165678 17.8251915 68.1165678 5.94184557"></polygon>
+                    <polygon id="Fill-1-Copy-13" points="69.7085805 20.7960064 59.4171611 26.7378519 59.4171611 38.6211979 69.7085805 44.5628708 80 38.6211979 80 26.7378519"></polygon>
+                    <polygon id="Fill-1-Copy-10" points="10.2914195 -4.26325641e-14 -3.48165941e-13 5.94184557 -3.48165941e-13 17.8251915 10.2914195 23.7668644 20.5828389 17.8251915 20.5828389 5.94184557"></polygon>
+                    <polygon id="Fill-1-Copy-14" points="22.1748517 20.7960064 11.8834322 26.7378519 11.8834322 38.6211979 22.1748517 44.5628708 32.4662711 38.6211979 32.4662711 26.7378519"></polygon>
+                    <polygon id="Fill-1-Copy-12" points="34.0582839 -4.26325641e-14 23.7668644 5.94184557 23.7668644 17.8251915 34.0582839 23.7668644 44.3497034 17.8251915 44.3497034 5.94184557"></polygon>
+                    <polygon id="Fill-1-Copy-15" points="45.9417161 20.7960064 35.6502966 26.7378519 35.6502966 38.6211979 45.9417161 44.5628708 56.2331356 38.6211979 56.2331356 26.7378519"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

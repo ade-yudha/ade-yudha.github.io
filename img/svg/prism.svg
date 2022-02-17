@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="195px" height="96px" viewBox="0 0 195 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 24</title>
+    <defs>
+        <linearGradient x1="4.95023906%" y1="46.3165025%" x2="63.6113167%" y2="53.2834763%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="17.9911997%" y1="50%" x2="100%" y2="52.7294594%" id="linearGradient-2">
+            <stop stop-color="#34FFFF" offset="0%"></stop>
+            <stop stop-color="#34FFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="18.5871469%" y1="72.8169502%" x2="66.3237207%" y2="44.4076345%" id="linearGradient-3">
+            <stop stop-color="#34FFFF" offset="0%"></stop>
+            <stop stop-color="#34FFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="56.5895907%" y1="75.6749407%" x2="43.8438622%" y2="62.4653877%" id="linearGradient-4">
+            <stop stop-color="#34FFFF" offset="0%"></stop>
+            <stop stop-color="#34FFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="30.970423%" y1="55.7317079%" x2="100%" y2="40.6818098%" id="linearGradient-5">
+            <stop stop-color="#E15226" offset="0%"></stop>
+            <stop stop-color="#E15226" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="43.5577478%" y1="51.3024366%" x2="101.649706%" y2="44.8194727%" id="linearGradient-6">
+            <stop stop-color="#F7D550" offset="0%"></stop>
+            <stop stop-color="#F7D550" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.3018261%" y1="50%" x2="103.043405%" y2="47.4164293%" id="linearGradient-7">
+            <stop stop-color="#4BB9BE" offset="0%"></stop>
+            <stop stop-color="#4BB9BE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.217856%" y1="50%" x2="102.87956%" y2="48.6063751%" id="linearGradient-8">
+            <stop stop-color="#32C68D" offset="0%"></stop>
+            <stop stop-color="#32C68D" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="50.4175457%" x2="102.717764%" y2="49.5811086%" id="linearGradient-9">
+            <stop stop-color="#4B67BE" offset="0%"></stop>
+            <stop stop-color="#4B67BE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="one-pager-desktop-Design-ALT-5" transform="translate(-1131.000000, -607.000000)">
+            <g id="Group-24" transform="translate(1131.324219, 607.529297)">
+                <polygon id="Path-13" fill="url(#linearGradient-1)" points="-7.46069873e-13 22.3305664 -7.46069873e-13 15.1289063 76.2712402 45.637085 98.3419993 46.621582 98.3419993 46.6611328 75.8077393 47.4348145"></polygon>
+                <g id="Group-53" transform="translate(41.675781, 7.470703)" opacity="0.8">
+                    <g id="Group-10" transform="translate(-0.000000, 0.000000)">
+                        <polygon id="Path-5-Copy" fill="url(#linearGradient-2)" opacity="0.3" points="97 88 1.93296473e-13 88 27.2488517 65.3366006"></polygon>
+                        <polygon id="Path-6-Copy" fill="url(#linearGradient-3)" points="97 88 44.9484427 0 27.2488517 65.3366006"></polygon>
+                        <polygon id="Path-7-Copy" fill="url(#linearGradient-4)" points="-1.51875801e-13 88 27.2488517 65.3366006 44.9484427 -9.76996262e-15"></polygon>
+                    </g>
+                </g>
+                <g id="Group-21" transform="translate(98.341999, 0.000000)">
+                    <polygon id="Path-7" fill="url(#linearGradient-5)" points="0 46.6611328 95.365032 0 95.365032 12.6474609"></polygon>
+                    <polyline id="Path-8" fill="url(#linearGradient-6)" points="0 46.6611328 95.365032 21.5605469 95.365032 12.6474609"></polyline>
+                    <polygon id="Path-9" fill="url(#linearGradient-7)" points="0 46.6611328 95.365032 27.8066406 95.365032 21.5605469"></polygon>
+                    <polygon id="Path-10" fill="url(#linearGradient-8)" points="0 46.6611328 95.365032 32.7363281 95.365032 27.8066406"></polygon>
+                    <polygon id="Path-11" fill="url(#linearGradient-9)" points="0 46.6611328 95.365032 40.9628906 95.365032 32.7363281"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

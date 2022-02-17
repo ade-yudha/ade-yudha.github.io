@@ -1,0 +1,135 @@
+
+.polyhedron {
+  position: relative;
+	margin: 5em auto 0;
+	padding: 0;
+	/*width: 16em; height: 16em;*/
+  width: 25em; height: 25em;
+  perspective: 100em;
+	transform-style: preserve-3d;
+   /*animation: rot 20s infinite linear; */
+}
+
+@keyframes rot {
+	from { transform: rotateZ(-15deg) rotateX(45deg) rotateY(0deg); }
+	to { transform: rotateZ(345deg) rotateX(-315deg) rotateY(360deg); }
+}
+
+.side, .side:after {
+  overflow: hidden;
+  position: absolute;
+  width: inherit; height: inherit;
+  backface-visibility: hidden;
+}
+.triangle:after {
+  transform: scaleX(1.155) skewY(-30deg) rotate(-30deg) translateY(-50%);
+  content: '';
+}
+.tetrahedron .side.triangle:first-child {
+  transform: translateZ(7.2em) 
+    rotateX(19.47deg) 
+    rotate(30deg) skewY(30deg) scaleX(.866);
+}
+.tetrahedron .side.triangle:first-child:after {
+  background: palevioletred 
+    url(../img/img-mid.svg);
+    background-size: 100%;
+}
+.tetrahedron .side.triangle:nth-child(2) {
+  transform: rotateY(120deg) translateZ(7.2em) 
+    rotateX(19.47deg) 
+    rotate(30deg) skewY(30deg) scaleX(.866);
+}
+.tetrahedron .side.triangle:nth-child(2):after {
+  background: hotpink 
+    url("../img/img-left.svg");
+    background-size: 100%;
+}
+.tetrahedron .side.triangle:nth-child(3) {
+  transform: rotateY(-120deg) translateZ(7.2em) 
+    rotateX(19.47deg) 
+    rotate(30deg) skewY(30deg) scaleX(.866);
+}
+.tetrahedron .side.triangle:nth-child(3):after {
+  background: mediumvioletred 
+    url("../img/img-right.svg");
+    background-size: 100%;
+}
+.tetrahedron .side.triangle:last-child {
+  transform: translateZ(7.2em) 
+    rotateX(90deg) rotateY(180deg)
+    rotate(30deg) skewY(30deg) scaleX(.866);
+}
+.tetrahedron .side.triangle:last-child:after {
+  background: orchid 
+    url("../img/img-back.png");
+    background-size: 100%;
+}
+
+
+.tetraside-container{
+  position: relative;
+  margin: 0 auto;
+  height: 300px;
+  width: 1200px;
+}
+
+.tetraside{
+  position: absolute;
+  margin:auto;
+  top:0;
+  left:0;
+  right:0;
+  width: 300px;
+  z-index: 20;
+}
+
+@media screen and (max-width: 1169px) {
+  .polyhedron {
+    width: 16em; height: 16em;
+  }
+.tetrahedron .side.triangle:first-child {
+  transform: translateZ(4.6188em) 
+    rotateX(19.47deg) 
+    rotate(30deg) skewY(30deg) scaleX(.866);
+}
+.tetrahedron .side.triangle:nth-child(2) {
+  transform: rotateY(120deg) translateZ(4.6188em) 
+    rotateX(19.47deg) 
+    rotate(30deg) skewY(30deg) scaleX(.866);
+}
+.tetrahedron .side.triangle:nth-child(3) {
+  transform: rotateY(-120deg) translateZ(4.6188em) 
+    rotateX(19.47deg) 
+    rotate(30deg) skewY(30deg) scaleX(.866);
+}
+.tetrahedron .side.triangle:last-child {
+  transform: translateZ(4.6188em) 
+    rotateX(90deg) rotateY(180deg)
+    rotate(30deg) skewY(30deg) scaleX(.866);
+}
+
+.tetraside-container{
+  position: relative;
+  margin: 0 auto;
+  height: 1px;
+  width: 320px;
+  margin-top: 0px;
+  overflow: hidden;
+  opacity: 0;
+}
+
+.tetraside{
+  position: absolute;
+  margin:auto;
+  top:0;
+  left:0;
+  right:0;
+  width:200px;
+}
+
+
+}
+
+
+

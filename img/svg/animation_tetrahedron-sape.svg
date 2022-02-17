@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="271px" viewBox="0 0 300 271" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 53</title>
+    <defs>
+        <linearGradient x1="28.6380576%" y1="47.2850692%" x2="69.1424614%" y2="58.5432111%" id="linearGradient-1">
+            <stop stop-color="#2995B4" offset="0%"></stop>
+            <stop stop-color="#003E56" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23.2762249%" y1="70.1366467%" x2="69.6056994%" y2="76.7642989%" id="linearGradient-2">
+            <stop stop-color="#90E7C2" offset="0%"></stop>
+            <stop stop-color="#408869" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="53.4992794%" y1="74.1567689%" x2="38.7468317%" y2="29.7610125%" id="linearGradient-3">
+            <stop stop-color="#83DDE0" offset="0%"></stop>
+            <stop stop-color="#309FA5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="one-pager-desktop-Design" transform="translate(-570.000000, -1977.000000)">
+            <g id="Group-53" transform="translate(570.000000, 1977.000000)">
+                <g id="Group-10" transform="translate(0.000000, 0.000000)">
+                    <polygon id="Path-5-Copy" fill="url(#linearGradient-1)" points="299.514115 271 5.96855898e-13 271 84.138306 201.207031"></polygon>
+                    <polygon id="Path-6-Copy" fill="url(#linearGradient-2)" points="299.514115 271 138.79065 0 84.138306 201.207031"></polygon>
+                    <polygon id="Path-7-Copy" fill="url(#linearGradient-3)" points="-4.68958206e-13 271 84.138306 201.207031 138.79065 -3.0087044e-14"></polygon>
+                </g>
+                <g id="Group-19" transform="translate(45.000000, 133.000000)" fill="#FFFFFF">
+                    <polygon id="Fill-1" points="36.3442 111.8979 41.9102 112.8359 98.3832 122.4229 53.5662 111.8979"></polygon>
+                    <polygon id="Fill-2" points="78.3076 111.8979 101.4826 122.4229 95.1416 112.8359 94.5696 111.8979"></polygon>
+                    <polygon id="Fill-3" points="66.5472 106.4219 48.5562 106.4219 76.8872 111.3819"></polygon>
+                    <polygon id="Fill-4" points="30.0222 106.9801 35.4622 111.3811 52.2372 111.3811"></polygon>
+                    <polygon id="Fill-5" points="92.7018 111.3815 69.3338 106.9805 76.8878 111.3815"></polygon>
+                    <polygon id="Fill-6" points="47.1473 106.4219 29.1563 106.4219 51.4973 110.8429"></polygon>
+                    <polygon id="Fill-7" points="73.2138 111.3145 48.5558 107.0475 52.7258 111.3145"></polygon>
+                    <polygon id="Fill-8" points="55.7212 111.8979 100.2812 122.4229 76.9772 111.8979"></polygon>
+                    <polygon id="Fill-9" points="90.2115 20.731 111.8515 27.9 110.3935 7.17 88.7535 0"></polygon>
+                    <polygon id="Fill-10" points="114.129 28.6555 135.77 35.8245 134.311 15.0935 112.671 7.9245"></polygon>
+                    <polygon id="Fill-11" points="115.7409 51.5695 137.3809 58.7385 135.9229 38.0075 114.2829 30.8385"></polygon>
+                    <polygon id="Fill-12" points="138.0474 36.58 159.6874 43.749 158.2294 23.018 136.5884 15.848"></polygon>
+                    <polygon id="Fill-13" points="40.0043 15.5771 32.6033 29.3231 34.5763 31.7271 43.9503 20.3851 51.3503 6.6381 49.3773 4.2341"></polygon>
+                    <polygon id="Fill-14" points="33.6044 34.4726 26.2034 48.2186 28.1764 50.6226 37.5504 39.2806 44.9504 25.5336 42.9784 23.1296"></polygon>
+                    <polygon id="Fill-15" points="13.8008 36.2186 6.3998 49.9656 8.3728 52.3686 17.7468 41.0266 25.1468 27.2806 23.1748 24.8756"></polygon>
+                    <polygon id="Fill-16" points="7.4 55.1141 -3.05533376e-13 68.8611 1.973 71.2651 11.347 59.9221 18.747 46.1761 16.774 43.7711"></polygon>
+                    <polygon id="Fill-17" points="26.9021 25.8974 19.5011 39.6444 21.4751 42.0474 30.8491 30.7054 38.2481 16.9594 36.2761 14.5554"></polygon>
+                    <polygon id="Fill-18" points="20.5022 44.7929 13.1012 58.5399 15.0752 60.9429 24.4492 49.6009 31.8482 35.8549 29.8762 33.4509"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

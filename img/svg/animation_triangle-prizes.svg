@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="258px" height="258px" viewBox="0 0 258 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 52</title>
+    <defs>
+        <linearGradient x1="50%" y1="43.5866268%" x2="50%" y2="127.881175%" id="linearGradient-1">
+            <stop stop-color="#2995B4" offset="0%"></stop>
+            <stop stop-color="#003E56" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0.134899899 0.134899899 0.404699697 0.134899899 0.404699697 0.404699697 0.134899899 0.404699697"></polygon>
+        <polygon id="path-4" points="0.134899899 0.134899899 0.404699697 0.134899899 0.404699697 0.404699697 0.134899899 0.404699697"></polygon>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="one-pager-desktop-Design" transform="translate(-591.000000, -1663.000000)">
+            <g id="Group-52" transform="translate(591.000000, 1663.000000)">
+                <polygon id="Triangle-Copy-3" fill="url(#linearGradient-1)" opacity="0.9" style="mix-blend-mode: multiply;" points="128.909953 -5.68434189e-14 257.819905 257.819905 -2.84217094e-13 257.819905"></polygon>
+                <g id="Group-15-Copy" transform="translate(103.000000, 160.000000)">
+                    <polygon id="Fill-1" fill="#FFFFFF" points="0.134899899 15.4418835 2.23933832 18.0859215 23.3916425 45.1198613 14.650129 15.4418835"></polygon>
+                    <g id="Group-4" transform="translate(0.000000, 44.715108)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <g id="Clip-3"></g>
+                        <path d="" id="Fill-2" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                    </g>
+                    <polygon id="Fill-5" fill="#FFFFFF" points="36.2941703 15.4418835 26.7972174 45.1198613 47.8955616 18.0859215 50 15.4418835"></polygon>
+                    <polygon id="Fill-6" fill="#FFFFFF" points="25.530939 0 34.866012 12.4647507 40.6936877 0"></polygon>
+                    <polygon id="Fill-7" fill="#FFFFFF" points="8.37161792 1.57411994 0.817223587 13.9849106 14.954733 13.9849106"></polygon>
+                    <polygon id="Fill-8" fill="#FFFFFF" points="35.7293174 13.9849106 49.0574274 13.9849106 41.5030331 1.57411994"></polygon>
+                    <g id="Group-11" transform="translate(0.000000, 44.715108)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="Clip-10"></g>
+                        <path d="" id="Fill-9" fill="#FFFFFF" mask="url(#mask-5)"></path>
+                    </g>
+                    <polygon id="Fill-12" fill="#FFFFFF" points="9.1809094 0 15.8179844 12.4647507 24.343658 0"></polygon>
+                    <polygon id="Fill-13" fill="#FFFFFF" points="33.9486388 13.9849106 24.9373255 1.95183966 16.6814517 13.9849106"></polygon>
+                    <polygon id="Fill-14" fill="#FFFFFF" points="16.4655039 15.4418835 24.9911775 45.1198613 34.3802105 15.4418835"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
